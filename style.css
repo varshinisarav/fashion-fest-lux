@@ -126,7 +126,23 @@ body {
 body.dark {
     background-color: var(--dark);
 }
+.car-text {
+    color: white;
+    font-size: 16px;
+}
 
+.car-ptext {
+    color: white;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.top-container {
+    border-style: none;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+}
 .navbar.active.dark {
     background-color: var(--dark);
     color: var(--white)
