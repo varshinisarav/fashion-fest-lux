@@ -130,7 +130,10 @@ body.dark {
     color: white;
     font-size: 16px;
 }
-
+.car-image{
+    height:450px;
+    width:400px
+}
 .car-ptext {
     color: white;
     font-size: 14px;
