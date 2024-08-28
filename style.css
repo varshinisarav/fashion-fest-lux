@@ -136,7 +136,9 @@ body.dark {
     font-size: 14px;
     font-style: italic;
 }
-
+.car-image{
+    height:400px;
+}
 .top-container {
     border-style: none;
     border-radius: 4px;
