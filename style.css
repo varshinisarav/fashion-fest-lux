@@ -138,10 +138,9 @@ body.dark {
 }
 .car-image{
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
     
-    min-height: 80vh;
+    background-position: left;
+    height:150vh;
     padding-block: var(--section-padding);
     display: flex;
     align-items: center;
